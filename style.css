@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0d0d0d;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+.login-box, .prediction-box, .admin-panel {
+  background: #1a1a1a;
+  padding: 30px;
+  border-radius: 15px;
+  display: inline-block;
+}
+
+h1, h2 {
+  color: #FFD700;
+}
+
+input, select, button {
+  padding: 10px;
+  margin-top: 10px;
+  width: 80%;
+  border: none;
+  border-radius: 10px;
+}
+
+button {
+  background: #FFD700;
+  color: #000;
+  cursor: pointer;
+  font-weight: bold;
+}
